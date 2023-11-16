@@ -1,7 +1,7 @@
-# LemburanKu_Desktop
-Oleh Kelompok 17:
-- <a href="http://bit.ly/nathanaelabel">Nathanael Abel Arianto</a> (0706012010029) <a href="https://github.com/Maumau20">@Maumau20</a>
-- <a href="https://s.id/cahyaa">Probo Krishnacahya</a> (0706012010039) <a href="https://github.com/cahyaa02">@cahyaa02</a>
+# LemburanKu
+Dikembangkan Oleh:
+- <a href="https://www.linkedin.com/in/nathanaelabel/">Nathanael Abel Arianto</a> (0706012010029) <a href="https://github.com/nathanaelabel">@Nathanael Abel</a>
+- <a href="https://www.linkedin.com/in/probo-krishnacahya/">Probo Krishnacahya</a> (0706012010039) <a href="https://github.com/probokrishnacahya">@Probo Krishnacahya</a>
 
 Aplikasi Desktop berupa .jar yang dibuat menggunakan
 - Bahasa pemrograman: Java v8u261.
