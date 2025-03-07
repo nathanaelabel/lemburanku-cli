@@ -1,10 +1,31 @@
-# LemburanKu
-Dikembangkan Oleh:
-- <a href="https://www.linkedin.com/in/nathanaelabel/">Nathanael Abel Arianto</a> (0706012010029) <a href="https://github.com/nathanaelabel">@Nathanael Abel</a>
-- <a href="https://www.linkedin.com/in/probo-krishnacahya/">Probo Krishnacahya</a> (0706012010039) <a href="https://github.com/probokrishnacahya">@Probo Krishnacahya</a>
+# Lemburanku-CLI
 
-Aplikasi Desktop berupa .jar yang dibuat menggunakan
-- Bahasa pemrograman: Java v8u261.
-- Integrated Development Environment: Apache NetBeans v8.2.
+A command-line application for managing and calculating employee overtime records.  
 
-LemburanKu adalah aplikasi yang dapat menjadi solusi bagi pengguna untuk melakukan penghitungan sekaligus menyimpan data lembur Karyawan. Pengguna dapat menambahkan, mengubah, menampilkan, dan menghapus data tersebut berdasarkan informasi laporan lembur yang dimasukkan. Aturan penghitungan lembur yang digunakan di LemburanKu yaitu berdasarkan ketentuan yang berlaku dari Kementerian Ketenagakerjaan Republik Indonesia (KEP. 102/MEN/VI/2004 Kemnaker).
+---
+
+## 📌 Developed by  
+- [Nathanael Abel Arianto](https://www.linkedin.com/in/nathanaelabel/) 
+- [Probo Krishnacahya](https://www.linkedin.com/in/probo-krishnacahya/) 
+
+---
+
+## 📖 About the Project  
+**Lemburanku-CLI** is a **desktop application** developed as part of the **Final Semester Examination (UAS) for Algorithm & Programming** in the 2020/2021 academic year.  
+
+This application helps users **calculate and store employee overtime records efficiently**. Users can **add, update, view, and delete** overtime data based on submitted reports. The overtime calculation rules follow the **Regulations from the Indonesian Ministry of Manpower (KEP. 102/MEN/VI/2004 Kemnaker)**.  
+
+---
+
+## 🛠️ Technologies Used  
+- **Programming Language:** Java v8u261  
+- **Development Environment:** Apache NetBeans v8.2  
+
+---
+
+## 🚀 Features  
+- Add employee overtime records
+- Edit and update existing records
+- View stored overtime data
+- Delete outdated or incorrect records
+- Overtime calculations based on government regulations  
