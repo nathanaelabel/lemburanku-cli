@@ -28,4 +28,8 @@ This application helps users **calculate and store employee overtime records eff
 - Edit and update existing records
 - View stored overtime data
 - Delete outdated or incorrect records
-- Overtime calculations based on government regulations  
+- Overtime calculations based on government regulations
+
+--- 
+
+⌅ This project was developed as part of the Algorithm & Programming course at [Universitas Ciputra Surabaya](https://informatika.ciputra.ac.id/). Thanks to everyone involved in the learning process! 
